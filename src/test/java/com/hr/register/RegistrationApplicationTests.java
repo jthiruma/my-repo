@@ -1,4 +1,4 @@
-package com.test.register;
+package com.hr.register;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

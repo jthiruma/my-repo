@@ -1,4 +1,4 @@
-package com.test.register;
+package com.hr.register;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
